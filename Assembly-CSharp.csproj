@@ -52,7 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\ColoredGrid.cs" />
-     <Compile Include="Assets\Scripts\GridHandler.cs" />
+     <Compile Include="Assets\Scripts\GameMapHandler.cs" />
      <Compile Include="Assets\Scripts\MinoHandler.cs" />
      <Compile Include="Assets\Scripts\TetrominoHandler.cs" />
  <Reference Include="UnityEngine.UI">
